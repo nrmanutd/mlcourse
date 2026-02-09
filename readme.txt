@@ -1,1 +1,1 @@
-readme.
+Seminars information
